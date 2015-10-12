@@ -38,7 +38,7 @@
                                       :top                  current-height
                                       :width                client-width
                                       :height               client-height
-                                      :background           "url(images/bcg-slide-1.jpg) no-repeat center"
+                                      :background           "url(resources/public/images/bcg-slide-1.jpg) no-repeat center"
                                       :WebkitBackgroundSize "cover"
                                       :MozBackgroundSize    "cover"
                                       :OBackgroundSize      "cover"
@@ -62,7 +62,7 @@
                                         :top                  client-height
                                         :width                client-width
                                         :height               slide-height
-                                        :background           "url(images/bcg-slide-2.jpg) no-repeat center"
+                                        :background           "url(resources/public/images/bcg-slide-2.jpg) no-repeat center"
                                         :WebkitBackgroundSize "cover"
                                         :MozBackgroundSize    "cover"
                                         :OBackgroundSize      "cover"
