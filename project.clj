@@ -30,7 +30,7 @@
                          :source-map-timestamp true }}
              {:id "min"
               :source-paths ["src"]
-              :compiler {:output-to "resources/public/js/compiled/parallax.js"
+              :compiler {:output-to "resources/public/js/parallax.min.js"
                          :main parallax.core
                          :optimizations :advanced
                          :pretty-print false}}]}
